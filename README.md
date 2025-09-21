@@ -13,5 +13,5 @@ Through my academic and project experiences, I’ve developed strong skills in m
 Thank you for taking the time to learn more about me. Feel free to explore my projects and extracurriculars below, and don’t hesitate to reach out. I’d be more than happy to connect with you.
 
 ## My Projects
-
+<a href="https://parrachristian.github.io/shaft-code" style="color: white";>Steel Shaft Design Optimization Tool</a>
 
