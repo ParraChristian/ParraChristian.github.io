@@ -8,7 +8,7 @@ plugins:
 --- 
 # Mobile Manipulation Capstone
 
-##Overview
+## Overview
 •	Created software that planned a trajectory for the end-effector of a youBot mobile manipulator 
 (a mobile base with four mecanum wheels and a 5R robot arm). <br/>
 •	This software calculates odometry as the chassis moves, and performs feedback control to drive the youBot 
