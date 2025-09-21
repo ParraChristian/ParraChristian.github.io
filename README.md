@@ -1,4 +1,4 @@
-# 
+# Engineering Protfolio
 ## Christian Parra<br/>
 B.S. Aerospace Engineering ('24)<br/>
 M.S. Mechanical Engineering ('25)<br/>
