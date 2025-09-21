@@ -6,7 +6,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 --- 
-# Fixed-Wing WIG Concept for Titan Exploration
+# WIG Concept for Titan Exploration
 
 ## Project Overview
 The Wing-in-Ground (WIG) Effect Aircraft project explored the feasibility of using ground-effect flight for planetary exploration on Titan.
