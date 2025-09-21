@@ -4,6 +4,7 @@ B.S. Aerospace Engineering ('24)<br/>
 M.S. Mechanical Engineering ('25)<br/>
 UC San Diego
 
+background-image: url("../images/Thumbnail-image.jpg")
 ![Frong Page](Thumbnail-image.jpg | width=100)
 
 ## About me
