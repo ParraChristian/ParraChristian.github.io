@@ -20,15 +20,15 @@ Impact: Demonstrates practical application of mechanical design principles, comb
 ## Inputs
 
 Material Properties<br/>
-- Choose from a built-in list of ASME steel grades, or
-- Manually input key properties: yield strength, tensile strength, and surface finish.
-Loading Conditions
-- Define the minimum and maximum moment and torque values the shaft will experience.
-Additional Options
-- Customize design parameters such as:
-- Shaft reliability
-- Factor of safety
-= Diameter ratio (D/d)
+- Choose from a built-in list of ASME steel grades, or<br/>
+- Manually input key properties: yield strength, tensile strength, and surface finish.<br/>
+Loading Conditions<br/>
+- Define the minimum and maximum moment and torque values the shaft will experience.<br/>
+Additional Options<br/>
+- Customize design parameters such as:<br/>
+- Shaft reliability<br/>
+- Factor of safety<br/>
+= Diameter ratio (D/d)<br/>
 
 
 
