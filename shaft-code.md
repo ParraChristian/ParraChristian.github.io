@@ -31,7 +31,7 @@ Additional Options<br/>
 - Shaft reliability<br/>
 - Factor of safety<br/>
 - Diameter ratio (D/d)<br/>
-- Shoulder fille (r/d)<br/>
+- Shoulder fillet (r/d)<br/>
 
 
 
