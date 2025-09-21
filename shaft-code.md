@@ -8,11 +8,27 @@ plugins:
 --- 
 # Steel Shaft Design Optimization Tool
 
-This tool optimizes the dimensions of steel shaft according to ASME fatigue criteria and user defined safety factors. <br/>
-<br/>
+This MATLAB-based design tool optimizes shaft dimensions according to ASME fatigue criteria and user-defined safety factors, streamlining a traditionally time-consuming design process.<br/>
 
-• Built a MATLAB-based design tool that automatically determines the minimum required shaft diameter from user inputs (torques, bending moments, alternating loads, material selection, and safety factor).<br/>
-• Integrated automated stress concentration factor selection and ASME fatigue failure criteria, eliminating the need for manual chart lookups.<br/>
+Automated Sizing: Calculates the minimum required shaft diameter from user inputs such as torque, bending moments, alternating loads, material properties, and safety factor.<br/>
+
+Built-in Reliability: Incorporates automated stress concentration factor selection and ASME fatigue failure analysis, eliminating manual chart lookups while ensuring accuracy.<br/>
+
+Impact: Demonstrates practical application of mechanical design principles, combining coding, fatigue analysis, and optimization to deliver efficient and reliable shaft designs.<br/>
+
+
+## Inputs
+
+Material Properties<br/>
+- Choose from a built-in list of ASME steel grades, or
+- Manually input key properties: yield strength, tensile strength, and surface finish.
+Loading Conditions
+- Define the minimum and maximum moment and torque values the shaft will experience.
+Additional Options
+- Customize design parameters such as:
+- Shaft reliability
+- Factor of safety
+= Diameter ratio (D/d)
 
 
 
