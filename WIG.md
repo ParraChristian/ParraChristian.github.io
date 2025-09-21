@@ -17,3 +17,5 @@ package, and camera suite, enabling diverse data collection for planetary scienc
 
 ## WIG Aircraft 3D model<br/>
 <img width="600" height="400" alt="Image" src="docs/WIG CAD.png" /><br/>
+
+## [WIG Aircraft Report](docs/Titan WIG - 155B - Group 6 (1).pdf)
