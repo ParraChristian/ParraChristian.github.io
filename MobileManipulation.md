@@ -14,3 +14,4 @@ plugins:
 •	This software calculates odometry as the chassis moves, and performs feedback control to drive the youBot 
  to pick up a block at a specified location, carry it to a desired location, and place it.
 
+<img width="600" height="400" alt="Image" src="docs/UBOT.png" /><br/>
