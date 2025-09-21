@@ -28,10 +28,10 @@ Loading Conditions<br/>
 
 Additional Options<br/>
 - Customize design parameters such as:<br/>
-- Shaft reliability<br/>
-- Factor of safety<br/>
-- Diameter ratio (D/d)<br/>
-- Shoulder fillet (r/d)<br/>
+-  Shaft reliability<br/>
+-  Factor of safety<br/>
+-  Diameter ratio (D/d)<br/>
+-  Shoulder fillet (r/d)<br/>
 
 
 
