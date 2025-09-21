@@ -15,6 +15,8 @@ viability. With defined requirements of a 450 kg dry mass and a >10 km range, th
 concept also incorporated a robust scientific payload, including a mass spectrometer, gamma-ray and neutron spectrometer, geophysics and meteorology 
 package, and camera suite, enabling diverse data collection for planetary science.
 
+## WIG Aircraft 3D model
+<img width="600" height="400" alt="Image" src="docs/WIG CAD.png" /><br/>
 ## Capabilities
 Multi flight exploration vehicle that is meant to perform multiple flights above the surface of Saturn's largest moon, Titan.
 
@@ -29,7 +31,7 @@ Multi flight exploration vehicle that is meant to perform multiple flights above
 
 ## Subsystems
 ### Propulsion
-<br/> Multi-Mission Radioisotope Thermoelectric Generator (~75W)
+Multi-Mission Radioisotope Thermoelectric Generator (~75W)
 <br/>• Provides thermal heat to internal systems
 
 <br/>High-Density Battery
@@ -47,8 +49,6 @@ Multi flight exploration vehicle that is meant to perform multiple flights above
 <br/>• Geophysics/Meteorology Package
 <br/>• Camera Suite
 
-
-
 ## Features
 ### Wing In Ground Effect
 Flying close to the ground reduces wingtip vortices and increases pressure underneath wings, reducing drag. 
@@ -60,8 +60,5 @@ Aluminum Alloy 7075 - high fatigue resistance and maintains mechanical propertie
 V tail design reduces turbulence which is important for WIG effects
 ### Insulation
 ultilayer Insulation (MLI) System
-
-## WIG Aircraft 3D model<br/>
-<img width="600" height="400" alt="Image" src="docs/WIG CAD.png" /><br/>
 
 ## [WIG Aircraft Report](docs/Titan WIG Slide Deck.pdf)
