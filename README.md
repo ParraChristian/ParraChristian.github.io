@@ -16,5 +16,5 @@ test
 
 ## Get in Touch
 
-linkedin: [www.linkedin.com/in/parra-christian](www.linkedin.com/in/parra-christian)
+linkedin: [www.linkedin.com/in/parra-christian](www.linkedin.com/in/parra-christian)<br/>
 email: christian.a.parra1@gmail.com
