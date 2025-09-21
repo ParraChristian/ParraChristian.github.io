@@ -13,4 +13,3 @@ Welcome to my engineering portfolio! My name is Christian Parra, and I am a driv
 Through my academic and project experiences, I’ve developed strong skills in mechanical design, CAD, and hands-on engineering that I’m excited to apply to meaningful projects in the industry. I’m motivated by opportunities that challenge me to think creatively, solve complex problems, and contribute to advancements in space and technology.<br/>
 
 Thank you for taking the time to learn more about me. Feel free to explore my projects and extracurriculars below, and don’t hesitate to reach out. I’d be more than happy to connect with you.
-test
