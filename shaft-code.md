@@ -33,7 +33,8 @@ Additional Options<br/>
  -  Diameter ratio (D/d)<br/>
  -  Shoulder fillet (r/d)<br/>
 
-
+## Outputs
+Minimum rod diamiter required to sustain applied loads for both the small and large portion of the shaft
 
 
 ## Default Configuration<br/>
