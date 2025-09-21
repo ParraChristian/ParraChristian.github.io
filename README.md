@@ -1,4 +1,4 @@
-# Engineering Portfolio
+
 ## Christian Parra<br/>
 B.S. Aerospace Engineering ('24)<br/>
 M.S. Mechanical Engineering ('25)<br/>
@@ -13,9 +13,3 @@ Through my academic and project experiences, I’ve developed strong skills in m
 
 Thank you for taking the time to learn more about me. Feel free to explore my projects and extracurriculars below, and don’t hesitate to reach out. I’d be more than happy to connect with you.
 test
-
-## Get in Touch
-
-linkedin: [www.linkedin.com/in/parra-christian](www.linkedin.com/in/parra-christian)<br/>
-email: christian.a.parra1@gmail.com
-Phone humber: 619 - 993 - 8519
