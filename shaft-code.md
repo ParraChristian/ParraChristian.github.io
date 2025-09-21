@@ -6,18 +6,13 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 --- 
+#Steel Shaft Design Optimization Tool
 
-## Christian Parra<br/>
-<img src="/docs/facecard.jpeg" width="50%"><br/>
-B.S. Aerospace Engineering ('24)<br/>
-M.S. Mechanical Engineering ('25)<br/>
-UC San Diego
+Tool to optimize dimensions of steel shaft according to ASME fatigue criteria and user defined safety factors.
 
-<![Frong Page](/docs/Thumbnail-image.jpg)>
 
-## About me
-Welcome to my engineering portfolio! My name is Christian Parra, and I am a driven and eager engineer pursuing opportunities in the aerospace and mechanical engineering industry. I earned my B.S. in aerospace engineering in June 2024 and my M.S. in mechanical engineering in June 2025, both from UC San Diego. <br/>
+  
+ <img width="1017" height="896" alt="Image" src="https://github.com/user-attachments/assets/89e5cd04-3d8e-4645-b3be-4d729a0837ab" />
+ Test Case
+<img width="1017" height="896" alt="Image" src="https://github.com/user-attachments/assets/4eb69f5d-1900-4947-9373-18b05c8008f0" />
 
-Through my academic and project experiences, I’ve developed strong skills in mechanical design, CAD, and hands-on engineering that I’m excited to apply to meaningful projects in the industry. I’m motivated by opportunities that challenge me to think creatively, solve complex problems, and contribute to advancements in space and technology.<br/>
-
-Thank you for taking the time to learn more about me. Feel free to explore my projects and extracurriculars below, and don’t hesitate to reach out. I’d be more than happy to connect with you.
