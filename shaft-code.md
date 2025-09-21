@@ -10,11 +10,11 @@ plugins:
 
 This MATLAB-based design tool optimizes shaft dimensions according to ASME fatigue criteria and user-defined safety factors, streamlining a traditionally time-consuming design process.<br/>
 
-Automated Sizing: Calculates the minimum required shaft diameter from user inputs such as torque, bending moments, alternating loads, material properties, and safety factor.<br/>
+- Automated Sizing: Calculates the minimum required shaft diameter from user inputs such as torque, bending moments, alternating loads, material properties, and safety factor.<br/>
 
-Built-in Reliability: Incorporates automated stress concentration factor selection and ASME fatigue failure analysis, eliminating manual chart lookups while ensuring accuracy.<br/>
+- Built-in Reliability: Incorporates automated stress concentration factor selection and ASME fatigue failure analysis, eliminating manual chart lookups while ensuring accuracy.<br/>
 
-Impact: Demonstrates practical application of mechanical design principles, combining coding, fatigue analysis, and optimization to deliver efficient and reliable shaft designs.<br/>
+- Impact: Demonstrates practical application of mechanical design principles, combining coding, fatigue analysis, and optimization to deliver efficient and reliable shaft designs.<br/>
 
 
 ## Inputs
@@ -30,7 +30,8 @@ Additional Options<br/>
 - Customize design parameters such as:<br/>
 - Shaft reliability<br/>
 - Factor of safety<br/>
-= Diameter ratio (D/d)<br/>
+- Diameter ratio (D/d)<br/>
+- Shoulder fille (r/d)<br/>
 
 
 
