@@ -1,7 +1,7 @@
 
 ## Christian Parra<br/>
 ![portrait](/docs/facecard.jpeg)
-    <img src="img" width="48">
+    <img src="/docs/facecard.jpeg" width="48">
 B.S. Aerospace Engineering ('24)<br/>
 M.S. Mechanical Engineering ('25)<br/>
 UC San Diego
