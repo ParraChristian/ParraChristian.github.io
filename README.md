@@ -14,7 +14,8 @@ Through my academic and project experiences, I’ve developed strong skills in m
 
 Thank you for taking the time to learn more about me. Feel free to explore my projects and extracurriculars below, and don’t hesitate to reach out. I’d be more than happy to connect with you.
 
-@media (prefers-color-scheme: dark) {
-      body {
-        background-color: #1a1a1a; /* Dark background color */
-        color: #f0f0f0;
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: dark # Or auto if you want it to switch with your system settings.
