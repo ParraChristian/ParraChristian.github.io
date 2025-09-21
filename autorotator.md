@@ -17,4 +17,5 @@ The Autorotating Lander is a fuelless rotorcraft concept developed for planetary
 ## Rotorcraft 3D model<br/>
 <img width="400" height="400" alt="Image" src="docs/autototator 3d model.png" /><br/>
 ## Rotorcraft Report<br/>
-https://username.github.io/docs/MAE 155B Project 1 Technical Report.pdf
+<object data="docs/MAE 155B Project 1 Technical Report.pdf" width="1000" height="1000" type='application/pdf'/>
+
