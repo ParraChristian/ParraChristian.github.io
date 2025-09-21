@@ -14,3 +14,6 @@ The fixed-wing concept was developed through aerodynamic, structural, propulsion
 viability. With defined requirements of a 450 kg dry mass and a >10 km range, the design achieved an estimated 41 km flight capability. The vehicle
 concept also incorporated a robust scientific payload, including a mass spectrometer, gamma-ray and neutron spectrometer, geophysics and meteorology 
 package, and camera suite, enabling diverse data collection for planetary science.
+
+## WIG Aircraft 3D model<br/>
+<img width="600" height="400" alt="Image" src="docs/WIG CAD.png" /><br/>
