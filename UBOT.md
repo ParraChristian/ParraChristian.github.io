@@ -299,7 +299,7 @@ title('Actual Z-position of e-e')
 legend('Desired','Actual')
 hold off
 ```
-
+</details>
 {::options parse_block_html="false" /}
 
 {::options parse_block_html="true" /}
@@ -384,7 +384,7 @@ state = [c_angles_n a_angles_n w_angles_n g_state];
 end
 
 ```
-
+</details>
 {::options parse_block_html="false" /}
 
 {::options parse_block_html="true" /}
@@ -482,7 +482,7 @@ function Configurations = TrajectoryGenerator(Tse_d,Tsc_i,Tsc_f,Tce_g,Tce_sf,k)
     Configurations = [traj1; traj2; traj3; traj4; traj5; traj6; traj7; traj8];
     csvwrite('test_part_2',Configurations)
 ```
-
+</details>
 {::options parse_block_html="false" /}
 
 {::options parse_block_html="true" /}
@@ -582,5 +582,5 @@ w_velocities=vel(1:4)';
 a_velocities=vel(5:9)';
 end
 ```
-
+</details>
 {::options parse_block_html="false" /}
