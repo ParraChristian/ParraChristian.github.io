@@ -30,7 +30,7 @@ Demonstrated skills in robotics kinematics, control, and simulation while delive
 ## Program Components
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span"><b>Component 1: Wrapper</b> (<i>click to expand</i>)</summary>
+<details><summary markdown="span"><b>Wrapper</b> (<i>click to expand</i>)</summary>
 
 ```
 %% General
@@ -304,7 +304,7 @@ hold off
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span"><b>Component 2: Next State</b> (<i>click to expand</i>)</summary>
+<details><summary markdown="span"><b>Function 1: Next State</b> (<i>click to expand</i>)</summary>
 
 ```
 %% 1 - Kinematics Simulator
@@ -389,7 +389,7 @@ end
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span"><b>Component 3: Trajectory Generator</b> (<i>click to expand</i>)</summary>
+<details><summary markdown="span"><b>Function 2: Trajectory Generator</b> (<i>click to expand</i>)</summary>
 
 ```
 %% 2 -TrajectoryGenerator to create the reference (desired) trajectory for the end-effector frame {e}. 
@@ -487,7 +487,7 @@ function Configurations = TrajectoryGenerator(Tse_d,Tsc_i,Tsc_f,Tce_g,Tce_sf,k)
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span"><b>Component 4: Feedback Control</b> (<i>click to expand</i>)</summary>
+<details><summary markdown="span"><b>Function 3: Feedback Control</b> (<i>click to expand</i>)</summary>
 
 ```
 %% 3 - FeedbackControl  calculates the task-space feedforward plus feedback control law discussed in class
