@@ -24,6 +24,9 @@ Thank you for taking the time to learn more about me. Feel free to explore my pr
 <a href="https://parrachristian.github.io/WIG" class="btn" > WIG Concept for Titan Exploration</a> <br/>
 <a href="https://parrachristian.github.io/WingBTS" class="btn" > Wing Bending, Torsion, and Shear Analysis Program</a> <br/>
 <a href="https://parrachristian.github.io/UBOT" class="btn" > Mobile Manipulation Robotics Capstone</a> <br/>
+<a href="https://parrachristian.github.io/GRS" class="btn" > Grid Refinement Study - Vortex Cooled Rocket Engine</a> <br/>
+
+
 
 
 
