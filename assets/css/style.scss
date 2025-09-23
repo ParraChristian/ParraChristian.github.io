@@ -37,15 +37,15 @@ $header-bg-color-secondary: #011e3b;
 .site-footer-name {
 
      @include large {
-    font-size: 3rem;
+    font-size: 1.3rem;
   }
 
   @include medium {
-    font-size: 3rem;
+    font-size: 1.3rem;
   }
 
   @include small {
-    font-size: 2.4rem;
+    font-size: 1.2rem;
   }
     
 }
