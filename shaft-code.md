@@ -42,3 +42,19 @@ Minimum rod diamiter required to sustain applied loads for both the small and la
 ## Test Case <br/>
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/4eb69f5d-1900-4947-9373-18b05c8008f0" /><br/>
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
