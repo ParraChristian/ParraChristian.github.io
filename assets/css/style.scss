@@ -22,36 +22,39 @@ $header-bg-color-secondary: #011e3b;
     @include large {
     padding: 5rem 6rem;
   }
-
   @include medium {
     padding: 3rem 4rem;
   }
-    
     @include small {
     padding: 2rem 1rem;
   }
+} 
 
-}
-    
     .site-footer-credits {
   color: #95a6ad;
 }
-
-
 
 .site-footer-name {
 
      @include large {
     font-size: 1.3rem;
   }
-
   @include medium {
     font-size: 1.3rem;
   }
-
   @include small {
     font-size: 1.2rem;
   }
-    
 }
 
+.btn {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: $section-headings-color;
+  background-color: rgba(255, 255, 255, 0.08);
+  border-color: $section-headings-color;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0.3rem;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+}
