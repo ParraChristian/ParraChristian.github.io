@@ -16,7 +16,7 @@ distribution, deflection, and safety margins for conceptual and preliminary desi
 
 ## How the Code Works
 
-###User Inputs:
+### User Inputs:
 
 • Wing geometry (span, chord, airfoil thickness, spar/rib layout)
 
