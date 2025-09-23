@@ -44,7 +44,7 @@ Minimum rod diamiter required to sustain applied loads for both the small and la
 
 <details>
 
-<summary> Project MATLAB Code </summary>
+<summary><u>Project MATLAB Code</u> (<i>click to expand</i>)</summary>
 
 ```matlab
 % MAE 190 
