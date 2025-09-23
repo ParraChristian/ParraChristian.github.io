@@ -6,9 +6,7 @@
 M.S. Mechanical Engineering ('25)<br/>
 UC San Diego</td>
  
-
-
-
+<br clear="all">
 ## About me
 Welcome to my engineering portfolio! My name is Christian Parra, and I am a driven and eager engineer pursuing opportunities in the aerospace and mechanical engineering industry. I earned my B.S. in aerospace engineering in June 2024 and my M.S. in mechanical engineering in June 2025, both from UC San Diego. <br/>
 
