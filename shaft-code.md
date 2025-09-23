@@ -45,17 +45,7 @@ Minimum rod diamiter required to sustain applied loads for both the small and la
 {::options parse_block_html="true" /}
 
 <details>
- <summary markdown="span">Let's see some code!</summary>
- 
-```python
-print('Hello World!')
-```
-
-Of course, it has to be Hello World, right?
-</details>
-<br/>
-
-{::options parse_block_html="false" /}
+<summary><b>Project MATLAB Code</b> (<i>click to expand</i>)</summary>
 
 ```
 % MAE 190 
@@ -493,3 +483,5 @@ function mae190test()
     end
 end
 ```
+
+{::options parse_block_html="false" /}
