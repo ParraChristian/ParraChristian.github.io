@@ -1,6 +1,6 @@
 
 ## Christian Parra<br/>
-<table> 
+<table border: "0";> 
   <tbody> 
     <tr> 
       <td style="text-align: left"><img src="/docs/facecard.jpeg" width="50%" style="border-radius:25%"><br/></td>
