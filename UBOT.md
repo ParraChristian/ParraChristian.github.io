@@ -27,7 +27,9 @@ Demonstrated skills in robotics kinematics, control, and simulation while delive
 
 <img width="600" height="400" alt="Image" src="docs/UBOT.png" /><br/>
 
-## [Mobile Manipulation Report](docs/GRS/UBOT Final Report.pdf)
+## [Mobile Manipulation Report](docs/UBOT Final Report.pdf)
+
+<iframe src="docs/UBOT Final Report.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 ## Program Components
 {::options parse_block_html="true" /}
