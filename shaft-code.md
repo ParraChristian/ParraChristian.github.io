@@ -44,7 +44,7 @@ Minimum rod diamiter required to sustain applied loads for both the small and la
 
 <details>
 
-<summary> Project Code/summary>
+<summary> Project MATLAB Code <summary>
 
 ### You can add a header
 
