@@ -17,7 +17,7 @@ This MATLAB-based design tool optimizes shaft dimensions according to ASME fatig
 - Impact: Demonstrates practical application of mechanical design principles, combining coding, fatigue analysis, and optimization to deliver efficient and reliable shaft designs.<br/>
 
 <img alt="Image" width="50%" src="docs/ShaftCode_Sample.png" /><br/>
-<i>cSection of Shaft with grinding-relief groove, Shigley's Mechanical Engineering Design </i>
+<i>Section of Shaft with grinding-relief groove, Shigley's Mechanical Engineering Design </i>
 
 ## Inputs
 
