@@ -42,9 +42,22 @@ Minimum rod diamiter required to sustain applied loads for both the small and la
 ## Test Case <br/>
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/4eb69f5d-1900-4947-9373-18b05c8008f0" /><br/>
 
+{::options parse_block_html="true" /}
 
+<details>
+ <summary markdown="span">Let's see some code!</summary>
+ 
+```python
+print('Hello World!')
+```
 
-```matlab
+Of course, it has to be Hello World, right?
+</details>
+<br/>
+
+{::options parse_block_html="false" /}
+
+```
 % MAE 190 
 % Steel Shaft Design Optimization Tool
 % Christian Parra
