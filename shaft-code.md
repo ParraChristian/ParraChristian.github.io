@@ -45,6 +45,7 @@ Minimum rod diamiter required to sustain applied loads for both the small and la
 <details>
 <summary><u>Project MATLAB Code</u> (<i>click to expand</i>)</summary>
 
+
 ```
 % MAE 190 
 % Steel Shaft Design Optimization Tool
@@ -481,5 +482,6 @@ function mae190test()
     end
 end
 ```
+
 
 </details>
