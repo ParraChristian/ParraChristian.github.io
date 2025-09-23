@@ -3,7 +3,7 @@
 <table borderColor="#ffffff"> 
   <tbody> 
     <tr> 
-      <td style="width:50%"> <img src="/docs/facecard.jpeg" width="50%" style="border-radius:25%"></td>
+      <td style="width:40px;"> <img src="/docs/facecard.jpeg" width="50%" style="border-radius:25%"></td>
       <td style="text-align: left">B.S. Aerospace Engineering ('24)<br/>
           M.S. Mechanical Engineering ('25)<br/>
           UC San Diego</td>
