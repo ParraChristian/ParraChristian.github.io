@@ -57,3 +57,16 @@ distribution, deflection, and safety margins for conceptual and preliminary desi
 This program streamlines early-stage wing structural analysis, eliminating manual calculations and providing a 
 reusable framework for rapid design iteration. It demonstrates proficiency in structural mechanics, MATLAB programming,
 and aerospace system design.
+
+## Diagram of Wing profile
+<img src="/docs/AeroLoads/AeroLoads_diagram.png" width="50%"><br/>
+## Sample input file
+<img src="/docs/AeroLoads/AeroLoads_in.png" width="50%"><br/>
+## Sample  output file
+<img src="/docs/AeroLoads/AeroLoads_out1.png" width="50%"><br/>
+<img src="/docs/AeroLoads/AeroLoads_out2.png" width="50%"><br/>
+<img src="/docs/AeroLoads/AeroLoads_out3.png" width="50%"><br/>
+<img src="/docs/AeroLoads/AeroLoads_out4.png" width="50%"><br/>
+<img src="/docs/AeroLoads/AeroLoads_out5.png" width="50%"><br/>
+<img src="/docs/AeroLoads/AeroLoads_out6.png" width="50%"><br/>
+
