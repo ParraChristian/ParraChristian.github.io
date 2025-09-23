@@ -13,7 +13,7 @@ Through my academic and project experiences, I’ve developed strong skills in m
 Thank you for taking the time to learn more about me. Feel free to explore my projects and extracurriculars below, and don’t hesitate to reach out. I’d be more than happy to connect with you.
 
 ## My Projects
-<a href="https://parrachristian.github.io/shaft-code" class="btn" > Steel Shaft Design Optimization Tool</a> <br/>
+<a href="https://parrachristian.github.io/SteelShaft" class="btn" > Steel Shaft Design Optimization Tool</a> <br/>
 <a href="https://parrachristian.github.io/autorotator" class="btn" > Autorotating Mars Lander Concept & Prototype</a> <br/>
 <a href="https://parrachristian.github.io/WIG" class="btn" > WIG Concept for Titan Exploration</a> <br/>
 <a href="https://parrachristian.github.io/AeroLoads" class="btn" > Wing Bending, Torsion, and Shear Analysis Program</a>
