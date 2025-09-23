@@ -44,7 +44,7 @@ Minimum rod diamiter required to sustain applied loads for both the small and la
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>## Tips for collapsed sections</summary>
 
 ### You can add a header
 
