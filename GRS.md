@@ -50,4 +50,4 @@ Highlighted trade-offs between computational cost and accuracy.
 <img src="/docs/GRS/GRS_Results.png" width="50%">
 
 
-## [GRS Report](docs/GRS/GRS Final Report.pdf)
+## [Grid Refinement Study Report](docs/GRS/GRS Final Report.pdf)
