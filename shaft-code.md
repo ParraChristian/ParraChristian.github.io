@@ -16,6 +16,7 @@ This MATLAB-based design tool optimizes shaft dimensions according to ASME fatig
 
 - Impact: Demonstrates practical application of mechanical design principles, combining coding, fatigue analysis, and optimization to deliver efficient and reliable shaft designs.<br/>
 
+<img alt="Image" src="docs/ShaftCode_Sample.png" /><br/>
 
 ## Inputs
 
