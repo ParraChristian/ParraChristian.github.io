@@ -40,9 +40,9 @@ Minimum rod diamiter required to sustain applied loads for both the small and la
 
 
 ## Default Configuration<br/>
-<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/89e5cd04-3d8e-4645-b3be-4d729a0837ab" /><br/>
+<img width="60%" alt="Image" src="https://github.com/user-attachments/assets/89e5cd04-3d8e-4645-b3be-4d729a0837ab" /><br/>
 ## Test Case <br/>
-<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/4eb69f5d-1900-4947-9373-18b05c8008f0" /><br/>
+<img width="60%" alt="Image" src="https://github.com/user-attachments/assets/4eb69f5d-1900-4947-9373-18b05c8008f0" /><br/>
 
 {::options parse_block_html="true" /}
 
