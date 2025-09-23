@@ -1,6 +1,6 @@
 
 
-<img src="/docs/facecard.jpeg" width="50%" style="border-radius:25%" align="left" hspace="10">
+<img src="/docs/facecard.jpeg" width="50%" style="border-radius:25%" align="left" hspace="15">
 <br/><br/>
 
 ## Christian Parra <br/>
