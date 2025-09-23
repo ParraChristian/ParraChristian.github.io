@@ -61,7 +61,7 @@ V tail design reduces turbulence which is important for WIG effects
 ### Insulation
 Multilayer Insulation (MLI) System
 ## WIG Poster
-<iframe src="docs/Titan WIG Slide Deck.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<img width="600" height="400" alt="Image" src="Titan WIG Poster.png" /><br/>
 
 ## WIG Aircraft Slide Deck
-<iframe src="docs/Titan WIG Poster.png" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="docs/Titan WIG Slide Deck.pdf" width="100%" height="600px" style="border: none;"></iframe>
