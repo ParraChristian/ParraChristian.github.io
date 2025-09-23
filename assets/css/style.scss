@@ -12,6 +12,7 @@ $header-bg-color-secondary: #011e3b;
 }
 
 .site-footer {
+  width: 100%;
   color: $header-heading-color;
   background-color: $header-bg-color;
   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
