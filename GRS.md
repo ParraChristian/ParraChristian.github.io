@@ -50,4 +50,5 @@ Highlighted trade-offs between computational cost and accuracy.
 <img src="/docs/GRS/GRS_Results.png" width="50%">
 
 
-## [Grid Refinement Study Report](docs/GRS/GRS Final Report.pdf)
+## Grid Refinement Study Report
+<iframe src="docs/Titan WIG Slide Deck.pdf" width="100%" height="600px" style="border: none;"></iframe>
