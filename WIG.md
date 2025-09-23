@@ -64,4 +64,4 @@ Multilayer Insulation (MLI) System
 <iframe src="docs/Titan WIG Slide Deck.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 ## WIG Aircraft Slide Deck
-<iframe src="docs/Titan WIG Poster.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="docs/Titan WIG Poster.png" width="100%" height="600px" style="border: none;"></iframe>
