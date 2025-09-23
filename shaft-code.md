@@ -46,7 +46,7 @@ Minimum rod diamiter required to sustain applied loads for both the small and la
 
 <summary> Project MATLAB Code </summary>
 
-```matlab
+```
 % MAE 190 
 % Steel Shaft Design Optimization Tool
 % Christian Parra
@@ -469,7 +469,6 @@ function mae190test()
                 "decrease the loads that the shaft experience","Yield Error");
             gjj.Text ={''};
 
-
         else
             %if doues not yield, output athe converged diamiters
             d=di(k-1);
@@ -479,13 +478,9 @@ function mae190test()
                 ['                            d = ',num2str(d),' in']; '';'';'';...
                 'minimum diameter for larger side of rod [D]';''; ...
                 ['                            D = ',num2str(D),' in']};
-
-        
         end
-
     end
 end
 ```
-
 </details>
 
