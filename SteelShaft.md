@@ -1,7 +1,7 @@
 ---
-title: Shaft Code
+title: Steel Shaft Design Optimization Tool
 layout: default
-filename: shaft-code.md
+filename: SteelShaft.md
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
