@@ -44,7 +44,7 @@ Minimum rod diamiter required to sustain applied loads for both the small and la
 
 
 
-```
+```matlab
 % MAE 190 
 % Steel Shaft Design Optimization Tool
 % Christian Parra
