@@ -7,6 +7,12 @@ $header-bg-color: #155799;
 $header-bg-color-secondary: #011e3b;
 
 @import "{{ site.theme }}";
+.page-footer {
+    background-color: $header-bg-color;
+}
+
+
+
 
 .site-footer {
   max-width: 100% !important;
