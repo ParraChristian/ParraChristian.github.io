@@ -59,6 +59,6 @@ Aluminum Alloy 7075 - high fatigue resistance and maintains mechanical propertie
 ### Tail
 V tail design reduces turbulence which is important for WIG effects
 ### Insulation
-ultilayer Insulation (MLI) System
+Multilayer Insulation (MLI) System
 
 ## [WIG Aircraft Slide Deck](docs/Titan WIG Report.pdf)
