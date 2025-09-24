@@ -9,7 +9,7 @@ plugins:
 # WIG Concept for Titan Exploration
 
 ## Project Overview
-This project explored the feasibility of using the Wing In Ground effect of fced wing aircraft for planetary exploration on Titan.
+This project explored the feasibility of using the Wing In Ground effect of a fixed wing aircraft for planetary exploration on Titan.
 The fixed-wing concept was developed through aerodynamic, structural, propulsion, and stability analyses, ensuring both performance and mission
 viability. With defined requirements of a 450 kg dry mass and a >10 km range, the design achieved an estimated 41 km flight capability. The vehicle
 concept also incorporated a robust scientific payload, including a mass spectrometer, gamma-ray and neutron spectrometer, geophysics and meteorology 
